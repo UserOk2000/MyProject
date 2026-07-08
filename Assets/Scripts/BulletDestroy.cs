@@ -9,15 +9,11 @@ public class BulletDestroy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.TryGetComponent(out Wall _))
-        {
-            Destroy(gameObject);
-        }
+        Destroy(gameObject);
 
         if (collision.TryGetComponent(out EnemyHealth enemyHealth))
         {
             enemyHealth.TakeDamage(_damage);
-            Destroy(gameObject);
         }
     }
 

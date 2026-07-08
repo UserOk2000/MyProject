@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 83a12ad4f8056174eadf0cfa79201deb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crosshairTexture: {fileID: 2800000, guid: 027d53881c34cb0408300bfa0c3877d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

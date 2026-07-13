@@ -30,18 +30,18 @@ public class EnemyShooting : MonoBehaviour
     {
         if (player == null) return;
 
-        
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
 
-       
-        RotateTowardsPlayer();
-
-       
-        if (distanceToPlayer <= attackRange && Time.time >= nextFireTime)
+        // Враг поворачивается и стреляет ТОЛЬКО если игрок в зоне атаки/видимости
+        if (distanceToPlayer <= attackRange)
         {
-            Shoot();
-            
-            nextFireTime = Time.time + fireRate;
+            RotateTowardsPlayer();
+
+            if (Time.time >= nextFireTime)
+            {
+                Shoot();
+                nextFireTime = Time.time + fireRate;
+            }
         }
     }
 

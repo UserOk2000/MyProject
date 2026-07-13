@@ -28,7 +28,7 @@ public class EnemyBullet : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Проверяем, столкнулась ли пуля с игроком
-        if (collision.CompareTag("Player"))
+        if (collision.TryGetComponent(out PlayerHealth playerHealth))
         {
             // Здесь должна быть логика нанесения урона игроку. К примеру:
             // PlayerHealth playerHealth = collision.GetComponent<PlayerHealth>();
@@ -36,6 +36,7 @@ public class EnemyBullet : MonoBehaviour
 
             Debug.Log("Пуля попала в игрока!");
 
+            playerHealth.TakeDamage(damage);
             Destroy(gameObject); // Уничтожаем пулю после попадания
         }
         // Проверяем столкновение со стенами или препятствиями

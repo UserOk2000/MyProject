@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 9f1fb6ade5e556a43a017a33c22f438d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 722
+        width: 149
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2d30ab5a45c348a37dd445f888e01
+      internalID: 1212926647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 520
+        width: 152
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2b3208621c15b41962e421f3d8a388
+      internalID: 41781297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 715
+        width: 155
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab821acb691ab4c49b409c6acb2d1c46
+      internalID: -892650123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 513
+        width: 154
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b95008169d87847825f365f576fc54
+      internalID: -314319695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 722
+        width: 152
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5554ffee685f4481b6d1845aa59bd
+      internalID: -1475497754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_5
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 520
+        width: 153
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1948f7cca4f5478f175a2e239b88c
+      internalID: 336035330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 722
+        width: 155
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a94a2db6d9f44aa10b533cd8a7054
+      internalID: -2115800043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_7
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 519
+        width: 153
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a97356d22453f4d9ef029a49fc6839
+      internalID: 624203316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 298
+        width: 150
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cdb6bf3dc41474eaeae8d97f3884d0
+      internalID: -1229377470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 291
+        width: 154
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541a4392870930040be0730198197991
+      internalID: -1872955368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 298
+        width: 151
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e476478933494d98d6f0a80406cf5
+      internalID: -674964318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_11
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 298
+        width: 154
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f1a5affd7d314a9435c89dd8be10d
+      internalID: 1572118499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 76
+        width: 154
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b31d6b095ab64690a67a201502362
+      internalID: -438121042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 70
+        width: 154
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e5400be83fef4587a5e42c9ae87f7
+      internalID: 952450820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_14
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 76
+        width: 153
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520c091bee078b4ca8738389acd8cf2
+      internalID: -776359070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_15
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 76
+        width: 153
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513edde755fa904d94c5fc974a5da08
+      internalID: -1118528906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_0: 1212926647
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_1: 41781297
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_10: -674964318
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_11: 1572118499
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_12: -438121042
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_13: 952450820
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_14: -776359070
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_15: -1118528906
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_2: -892650123
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_3: -314319695
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_4: -1475497754
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_5: 336035330
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_6: -2115800043
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_7: 624203316
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_8: -1229377470
+      Top-Down-Soldier-Sprites-Pixel-Art2-fotor-bg-remover-20260714195432_9: -1872955368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
